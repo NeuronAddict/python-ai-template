@@ -15,3 +15,4 @@ Jenkinsfile
 .idea/
 *.md
 .dockerignore
+*.ipynb
