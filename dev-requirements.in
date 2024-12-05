@@ -4,3 +4,5 @@ pytest
 notebook
 pre-commit
 nb-clean
+pyright
+
